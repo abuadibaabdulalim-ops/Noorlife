@@ -1,0 +1,6 @@
+{
+  "name": "Noorlife",
+  "description": "Premium Islamic Lifestyle Super App: Quran, Prayer Times, Qibla, Tasbih, Duas, Ramadan & Islamic Tools",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
